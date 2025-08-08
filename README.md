@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ujjwalgoswami123
+- 👋 Hi, I’m @ujjwal singh
 - 👀 I’m interested in ..AI technolgy.
 - 🌱 I’m currently learning ..java program.
 - 💞️ I’m looking to collaborate on .programer to making some uniqe..patent
